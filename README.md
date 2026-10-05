@@ -1,13 +1,16 @@
 # Qristoetle | 大学项目作品集
 
-大学期间的项目交付与研究作品索引。首批整理服务外包项目「职途罗盘」和同花顺校企合作项目。
+大学期间的项目交付与研究作品索引，包含服务外包项目「职途罗盘」、同花顺校企合作项目及大模型安全护栏小组项目。
 
 | 项目 | 主题 | 技术 | 仓库 |
 | --- | --- | --- | --- |
 | 职途罗盘 | 大学生职业规划智能体、岗位画像、人岗匹配 | React、FastAPI、Python | [career-compass](https://github.com/Qristoetle/career-compass) |
 | 同花顺校企合作项目 | 分析师报告、XGBoost 行业轮动、投研问答 | pandas、XGBoost、Streamlit | [ifind-industry-rotation](https://github.com/Qristoetle/ifind-industry-rotation) |
+| 大模型安全护栏 | 输入检查、LoRA 分类、输出自审查及净化 | FastAPI、vLLM、Qwen2.5、LoRA | [llm-safety-guardrail](https://github.com/Qristoetle/llm-safety-guardrail) |
 
 以上项目均整理自已有正式交付材料。详细技术说明、运行步骤、实验结果和数据范围见各项目仓库。团队贡献以原交付资料为准。
+
+安全护栏项目来自小组仓库 [undemo/llm](https://github.com/undemo/llm)，整理版保留来源说明；模型与训练语料按小组发布信息使用外部网盘链接。
 
 ## 仓库组织
 
